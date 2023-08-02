@@ -42,8 +42,8 @@
 <div align="center">
 
 <a href="https://github.com/Wqq1997">
-  <img src="https://github-readme-stats-ov3p4qjoe-wqq1997.vercel.app/api?username=0xWqq1997&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
-  <img src="https://github-readme-stats-ov3p4qjoe-wqq1997.vercel.app/api/top-langs?username=0xWqq1997&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="0xabdulkhalid"/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=Qianqian-Wang-1997&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="50%"  alt="0xQianqian-Wang-1997"/>
 
 </a>
 </div>
