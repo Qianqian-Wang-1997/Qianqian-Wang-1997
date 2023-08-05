@@ -17,20 +17,11 @@
 
 # ⚙️ My Skills :
 
-### Development
-
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,vite,react,tailwind,nodejs,express)](https://skillicons.dev)
-
-
-### Databases
 
 [![My Skills](https://skillicons.dev/icons?i=mongodb,mysql)](https://skillicons.dev)
 
-### Services
-
 <img src="https://skillicons.dev/icons?i=github&theme=dark" />
-
-### Design
 
 <img src="https://skillicons.dev/icons?i=figma&theme=dark" />
 
