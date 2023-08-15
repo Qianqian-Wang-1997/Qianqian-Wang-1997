@@ -7,15 +7,11 @@
 - Currently learning Web Development
 - I’m currently open for a new job opportunity, this is [my LinkedIn](https://www.linkedin.com/in/qianqian-wang-1425341b4/)
 
-## 📖 Currently in training :
+## 📖 Currently :
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript)](https://skillicons.dev)
 
-## 🌐 Social :
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/qianqian-wang-1425341b4/) 
-
-# ⚙️ My Skills :
+## ⚙️ My Skills :
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,c,vite,react,tailwind,nodejs,express)](https://skillicons.dev)
 
