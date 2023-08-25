@@ -5,7 +5,7 @@
 
 ## 📖 Currently working:
 
-[![My Skills](https://skillicons.dev/icons?i=nextjs,ruby,rubyonrail)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nextjs,java)](https://skillicons.dev)
 
 ## ⚙️ My Skills :
 
